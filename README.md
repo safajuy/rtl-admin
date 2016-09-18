@@ -1,4 +1,12 @@
-# rtl-admin
+# RTL Template for Good CRM
+
 GoodCRM.ir
 ===
-RTL Template for Good CRM
+
+Free Version
+==
+* Invoice Manager
+* User Manager
+* Ticket
+* Setting
+* Profile
